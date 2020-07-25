@@ -1,0 +1,43 @@
+.navbar-brand {
+  padding-top: 25px;
+}
+#header-nav{
+  background-color: gray;
+}
+.navbar-brand h1 {
+  color: black;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#nav-list {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#main-content{
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: gray;
+}
+.container-fluid h1{
+  color: black;
+}
+.container-fluid p{
+  color: black;
+}
+.container p{
+  color: black;
+}
+#nav-list{
+  background-color: pink;
+}
